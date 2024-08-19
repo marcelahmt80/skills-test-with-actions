@@ -31,6 +31,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. _Once you turn on branch protection, Actions can no longer push directly to the `main` branch. Make sure that you're on the `ci` branch in the page you're following instructions from._ Wait about 20 seconds and then refresh the page. [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
 
+[![Step 5, Merge your pull request](https://github.com/marcelahmt80/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml/badge.svg?branch=main&event=merge_group)](https://github.com/marcelahmt80/skills-test-with-actions/actions/workflows/5-merge-your-pull-request.yml)
 <footer>
 
 <!--
